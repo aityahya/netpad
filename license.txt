@@ -1,4 +1,4 @@
-The NetPAD License
+The MIT License (MIT)
 
 Copyright (C) 2017 Abdelaziz Ait Yahya ([aityahya.ml] (http://aityahya.ml))
 
